@@ -14,7 +14,9 @@ a {
 }
 
 
-/* Header */
+/* ==============================
+   HEADER STYLES
+   ============================== */
 
 
 .header-logo {
@@ -64,7 +66,9 @@ a {
 }
 
 
-/* Main */
+/* ==============================
+   HERO SECTION
+   ============================== */
 
 .hero {
     background: #2e2f42;
@@ -95,7 +99,9 @@ a {
     background-color: #404bbf;
 }
 
-/* Team */
+/* ==============================
+   OUR TEAM
+   ============================== */
 
 .team{
     background-color: #F4F4FD;
@@ -104,7 +110,9 @@ a {
 .team-item{
     background-color: #FFFFFF;
 }
-/* Features */
+/* ==============================
+   FEATURES
+   ============================== */
 
 .one-subtitle {
     font-weight: 500;
@@ -132,7 +140,9 @@ a {
 }
 
 
-/* Footer */
+/* ==============================
+   FOOTER STYLES
+   ============================== */
 
 .footer-page {
     background-color: #2e2f42;
